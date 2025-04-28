@@ -1,25 +1,29 @@
 # Resume
 
-#### Technical Skills:                               
-Computer Aided Design: SolidWorks (Part/Assembly, Sheetmetal, Weldments, Structural FEA)
-Process Engineering: Validations (IQ/OQ/PQ/PPQ), IMV/TMV, pFMEA, DMAIC, DoE, SPC
-Standards: ISO 13485, FDA 21 CFR (Part: Medical Devices), IPC 610/620, IPC 60601-1-11
-Management: Stakeholder/Client Management, Cost and Schedule Management, Quality Management 
-Tools: Windchill, Smartsheet, Minitab, Excel VBA, Power BI, Jira, DOORS
+#### Skills: Class III medical device NPI, CAD using SolidWorks, Windchill, Jira, DOORS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., Mechanical & Manufacturing Engineering	| University of Calgary, Calgary, Canada (_June 2019_)	 			        		
+- B.S., Mechanical Engineering | Punjab Technical University (_May 2013_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Process DEevelopment Engineer @ Abbott (_Nov 2021 - Present_)**
+- Operations lead for NPI projects supporting activities from Phase II to Phase IV of medical device product development
+- Owned development of assembly line for multiple products from concept to production including design/development of fixtures and machinery
+- Executed process characterizations, conducted process validations (OQ/PQ/PPQ), risk analysis (pFMEA) and IMV/TMVs
+- Owned and determined COGS, design for manufacturability documentation and other phase deliverables
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Process Development Engineer @ WhiteWater West  (_December 2019 - April 2021_)**
+- Operations lead the development of multiple new fiberglass products.
+- Work closely with structural engineers on the development/testing of fiberglass laminate schedules
+- Managed mold development and process development activities
+- Lead process validations, risk analysis (pFMEA) and procedure development
+
+**Senior Engineer, Process Development @ Denso Corporation  (_June 2013 - August 2017_)**
+- Lead for process development, machine installation and layout improvement for new and existing product production
+- Lead preparation of process FMEA, process flow, control plan & PCS
+- Performed trails to establish process capability and product quality
+- Enforced control plan and SOP for Statistical Process Control (SPC)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
