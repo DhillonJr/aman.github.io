@@ -26,10 +26,13 @@
 - Enforced control plan and SOP for Statistical Process Control (SPC)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### New Generation LVAD Peripheral System                                                                                                   
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Lead the process development activities in Phase II and III of the development of a class III new generation LVAD 
+peripheral system while meting project timelines
+- Owned the development of production line from concept to validations, including characterizations to develop process parameters and drafting all validation protocols/reports including all process/equipment qualifications and risk documentations
+- Lead multiple TDRs, peer review and other meetings to ensure constant feedback loop to comply by project goals and timelines
+ preparation of process FMEA, process flow, control plan & PCS
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
