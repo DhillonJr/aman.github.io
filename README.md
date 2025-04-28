@@ -1,6 +1,11 @@
-# Data Scientist
+# Resume
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:                               
+Computer Aided Design: SolidWorks (Part/Assembly, Sheetmetal, Weldments, Structural FEA)
+Process Engineering: Validations (IQ/OQ/PQ/PPQ), IMV/TMV, pFMEA, DMAIC, DoE, SPC
+Standards: ISO 13485, FDA 21 CFR (Part: Medical Devices), IPC 610/620, IPC 60601-1-11
+Management: Stakeholder/Client Management, Cost and Schedule Management, Quality Management 
+Tools: Windchill, Smartsheet, Minitab, Excel VBA, Power BI, Jira, DOORS
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
