@@ -3,11 +3,11 @@
 #### Skills: Class III medical device NPI, CAD using SolidWorks, Windchill, Jira, DOORS
 
 ## Education							       		
-- M.S., Mechanical & Manufacturing Engineering	| University of Calgary, Calgary, Canada (_June 2019_)	 			        		
-- B.S., Mechanical Engineering | Punjab Technical University (_May 2013_)
+- M.S., Mechanical & Manufacturing Engineering|University of Calgary (_June 2019_)	 			        		
+- B.S., Mechanical Engineering|Punjab Technical University (_May 2013_)
 
 ## Work Experience
-**Senior Process DEevelopment Engineer @ Abbott (_Nov 2021 - Present_)**
+**Senior Process Development Engineer @ Abbott (_Nov 2021 - Present_)**
 - Operations lead for NPI projects supporting activities from Phase II to Phase IV of medical device product development
 - Owned development of assembly line for multiple products from concept to production including design/development of fixtures and machinery
 - Executed process characterizations, conducted process validations (OQ/PQ/PPQ), risk analysis (pFMEA) and IMV/TMVs
@@ -34,17 +34,12 @@ peripheral system while meting project timelines
 - Lead multiple TDRs, peer review and other meetings to ensure constant feedback loop to comply by project goals and timelines
  preparation of process FMEA, process flow, control plan & PCS
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### New Acute Circulatory Support System
 
 - Lead the process development activities in Phase IV of the development of a new acute circulatory support system
 - Owned the validation and production handover of production line, including release of DHR documentation and validation reports including all process/equipment qualifications
 - Lead FRACAS investigations/closures and updating risk documentation.
 - Project successfully obtained FDA and BSI approval and launched in product in US & EU markets adding to Abbott’s cardiovascular portfolio
-
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Cold Chain Tech. EndeavAir® Pallet Solution
 
@@ -61,3 +56,4 @@ peripheral system while meting project timelines
 - Owned process validation activities and collaborated with quality team during client quality audits
 - Successfully handed over the line for production with client approval generating $10 million annually
 
+![Bike Study](/assets/img/bike_study.jpeg)
