@@ -3,8 +3,8 @@
 #### Skills: Class III medical device NPI, CAD using SolidWorks, Windchill, Jira, DOORS
 
 ## Education							       		
-- M.S., Mechanical & Manufacturing Engineering|University of Calgary (_June 2019_)	 			        		
-- B.S., Mechanical Engineering|Punjab Technical University (_May 2013_)
+- M.S., Mechanical & Manufacturing Engineering			        		
+- B.S., Mechanical Engineering
 
 ## Work Experience
 **Senior Process Development Engineer @ Abbott (_Nov 2021 - Present_)**
