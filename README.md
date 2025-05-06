@@ -1,6 +1,6 @@
 # Resume
 
-#### Skills: Class III medical device NPI, CAD using SolidWorks, Windchill, Jira, DOORS
+#### Skills: New Product Introduction/Development, Project Management, SolidWorks, Windchill, Jira, DOORS
 
 ## Education							       		
 - M.S., Mechanical & Manufacturing Engineering			        		
